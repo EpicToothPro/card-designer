@@ -1,0 +1,9 @@
+{
+  "domain": "card_designer",
+  "name": "Card Designer",
+  "version": "1.0.0",
+  "documentation": "https://github.com/yourname/card_designer",
+  "requirements": [],
+  "dependencies": [],
+  "codeowners": []
+}
