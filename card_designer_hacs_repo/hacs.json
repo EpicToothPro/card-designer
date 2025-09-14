@@ -1,0 +1,9 @@
+{
+  "name": "Card Designer",
+  "content_in_root": false,
+  "domains": [
+    "card_designer"
+  ],
+  "country": "all",
+  "render_readme": true
+}
